@@ -1,31 +1,63 @@
-# Olá, eu sou Gustavo Henrique 👋
+# 👋 Olá, eu sou Gustavo Henrique
 
-💻 Desenvolvedor Full Stack em formação, atualmente trabalho como aprendiz no TI da Distribuidora Riograndense
+Desenvolvedor Full Stack em formação.
 
-🎓 Sistemas para Internet - Unipê
+🎓 Sistemas para Internet - UNIPÊ
 
-🚀 Tecnologias
+💻 Atualmente trabalho como Jovem Aprendiz de TI.
 
-- HTML
-- CSS
-- Sass
-- JavaScript
+Tenho interesse em desenvolvimento Web, APIs REST, bancos de dados e desenvolvimento Front-end.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+
+HTML • CSS • Sass • JavaScript • TypeScript • React
+
+### Back-end
+
+Node.js • Fastify • Prisma • MongoDB
+
+### Ferramentas
+
+Git • GitHub • VSCode • Figma • Insomnia
+
+---
+
+## 📚 Atualmente estudando
+
+- React
 - TypeScript
-- React
-- Node.js
-- Fastify
-- Prisma
-- MongoDB
-- Git
+- Arquitetura de APIs
+- Clean Code
+- Docker
 
-📚 Atualmente estudando
+---
 
-- React
-- Arquitetura Backend
-- APIs REST
-- Banco de Dados
+## ⭐ Projetos
 
-📫 Contato
+🔹 PriceWatch (Contribuidor)
 
-LinkedIn:https://www.linkedin.com/in/gustavo-henrique-566435390/
-Email: gustavohnrqe713@gmail.com
+Aplicação desenvolvida em equipe.
+
+🔹 Clientes API
+
+CRUD completo utilizando Fastify + Prisma + MongoDB.
+
+🔹 Barbearia Elegance
+
+Landing Page responsiva.
+
+🔹 PetLife
+
+Site institucional.
+
+---
+
+## 📫 Contato
+
+LinkedIn
+
+Email
