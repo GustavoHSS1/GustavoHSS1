@@ -56,10 +56,6 @@ Tenho interesse em desenvolvimento Web, APIs REST, bancos de dados e desenvolvim
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=GustavoHSS1&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=GustavoHSS1&theme=github-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🐍 Minhas contribuições
