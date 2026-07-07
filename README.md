@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
-
 # 👋 Olá! Eu sou Gustavo Henrique
 
 ### 💻 Desenvolvedor Full Stack em formação
@@ -63,26 +59,6 @@ Tenho interesse em desenvolvimento Web, APIs REST, bancos de dados e desenvolvim
 <p align="center">
   <img src="https://raw.githubusercontent.com/GustavoHSS1/GustavoHSS1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
----
-
-## 💼 Projetos em destaque
-
-🔹 **PriceWatch**
-
-> Contribuidor no desenvolvimento da aplicação.
-
-🔹 **Clientes API**
-
-> API REST desenvolvida com Fastify, Prisma e MongoDB.
-
-🔹 **Barbearia Elegance**
-
-> Landing Page responsiva desenvolvida com HTML, CSS e JavaScript.
-
-🔹 **PetLife**
-
-> Site institucional focado em responsividade e boas práticas.
 
 ---
 
