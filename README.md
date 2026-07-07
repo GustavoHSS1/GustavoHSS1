@@ -8,7 +8,7 @@ Desenvolvedor Full Stack em formação.
 
 🎓 Sistemas para Internet - UNIPÊ
 
-💻 Atualmente trabalho como Jovem Aprendiz de TI.
+💻 Atualmente trabalho como Jovem Aprendiz de TI na empresa Riograndense.
 
 Tenho interesse em desenvolvimento Web, APIs REST, bancos de dados e desenvolvimento Front-end.
 
