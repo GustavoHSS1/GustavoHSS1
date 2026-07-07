@@ -58,6 +58,6 @@ Site institucional.
 
 ## 📫 Contato
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/gustavo-henrique-566435390/
 
-Email
+Email: gustavohnrqe713@gmail.com
