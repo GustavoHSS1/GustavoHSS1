@@ -58,10 +58,10 @@ Tenho interesse em desenvolvimento Web, APIs REST, bancos de dados e desenvolvim
 
 ---
 
-## 🐍 Minhas contribuições
+<h2 align="center">🐍 Minhas Contribuições</h2>
 
-<p>
-  <img src="https://raw.githubusercontent.com/GustavoHSS1/GustavoHSS1/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GustavoHSS1/GustavoHSS1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
