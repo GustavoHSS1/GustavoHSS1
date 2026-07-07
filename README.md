@@ -61,3 +61,7 @@ Site institucional.
 LinkedIn: https://www.linkedin.com/in/gustavo-henrique-566435390/
 
 Email: gustavohnrqe713@gmail.com
+
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
